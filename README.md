@@ -1,16 +1,32 @@
-## Hi there 👋
+# Ivan Volodin
 
-<!--
-**ivanwolodin/ivanwolodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD candidate and researcher in computational fluid dynamics. Former backend developer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a researcher currently writing my PhD thesis. My work focuses on modeling thin liquid films and interfacial dynamics, with the Lattice Boltzmann Method (LBM) as the main numerical tool. Earlier in my career, I worked as a backend developer, with some frontend experience.
+
+Outside of research, I am a FIDE Master (FM) in chess.
+
+## Research interests
+
+- Lattice Boltzmann Method
+- Thin film dynamics and Marangoni convection
+- Vibration-induced interfacial phenomena
+- Flow and mass transfer in porous media
+
+## Technical skills
+
+- **Scientific computing:** C++, Python (NumPy, Matplotlib), Fortran (basic)
+- **Backend:** Python, FastAPI, SQLModel
+- **Frontend:** JavaScript, React
+
+## Selected publications
+
+- Volodin, I. V., Alabuzhev, A. A. *Lattice Boltzmann simulation of interfacial dynamics induced by vertical vibrational force.* Physics of Fluids, 38 (9), 092135 (2026). [https://doi.org/10.1063/5.0336810](https://doi.org/10.1063/5.0336810)
+
+- Volodin, I., Alabuzhev, A. *Averaged Dynamics of Marangoni Convection in a Thin Liquid Film Under Vertical Vibrations.* Microgravity Sci. Technol. 38, 70 (2026). [https://doi.org/10.1007/s12217-026-10289-6](https://doi.org/10.1007/s12217-026-10289-6)
+
+- Volodin, I., Alabuzhev, A. *Mass Transfer Simulation In An Inclined Two-Layer Porous Channel By The Lattice Boltzmann Method.* Microgravity Sci. Technol. 37, 47 (2025). [https://doi.org/10.1007/s12217-025-10200-9](https://doi.org/10.1007/s12217-025-10200-9)
+
+- Alabuzhev, A., Volodin, I. *Linear Instability of Forced Oscillations of a Thin Ferrofluid Film in a Vertical Magnetic Field.* Microgravity Sci. Technol. 34, 91 (2022). [https://doi.org/10.1007/s12217-022-10014-z](https://doi.org/10.1007/s12217-022-10014-z)
