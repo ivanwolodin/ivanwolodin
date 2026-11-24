@@ -30,3 +30,9 @@ Outside of research, I am a FIDE Master (FM) in chess.
 - Volodin, I., Alabuzhev, A. *Mass Transfer Simulation In An Inclined Two-Layer Porous Channel By The Lattice Boltzmann Method.* Microgravity Sci. Technol. 37, 47 (2025). [https://doi.org/10.1007/s12217-025-10200-9](https://doi.org/10.1007/s12217-025-10200-9)
 
 - Alabuzhev, A., Volodin, I. *Linear Instability of Forced Oscillations of a Thin Ferrofluid Film in a Vertical Magnetic Field.* Microgravity Sci. Technol. 34, 91 (2022). [https://doi.org/10.1007/s12217-022-10014-z](https://doi.org/10.1007/s12217-022-10014-z)
+
+## Contact & Links
+
+- **Website:** [ivanvolodin.ru](https://ivanvolodin.ru/)
+- **Alternative website:** [ivanvolodin.netlify.app](https://ivanvolodin.netlify.app/) (mirror, in case the ru-domain is inaccessible)
+- **Email:** [ivanwolodin@gmail.com](mailto:ivanwolodin@gmail.com)
