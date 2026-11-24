@@ -17,9 +17,10 @@ Outside of research, I am a FIDE Master (FM) in chess.
 
 ## Technical skills
 
-- **Scientific computing:** C++, Python (NumPy, Matplotlib), Fortran (basic)
-- **Backend:** Python, FastAPI, SQLModel
-- **Frontend:** JavaScript, React
+- **Numerical methods:** Lattice Boltzmann Method (LBM)
+- **Scientific computing:** C++, Python (NumPy, SciPy, Matplotlib, PyPDE), basic Fortran
+- **Web development:** Python (FastAPI, Flask, SQLModel), JavaScript, React
+- **Other:** Qt (basic experience)
 
 ## Selected publications
 
