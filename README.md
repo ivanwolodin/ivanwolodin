@@ -20,7 +20,7 @@ Outside of research, I am a FIDE Master (FM) in chess.
 - **Numerical methods:** Lattice Boltzmann Method (LBM)
 - **Scientific computing:** C++, Python (NumPy, SciPy, Matplotlib, PyPDE), basic Fortran
 - **Web development:** Python (FastAPI, Flask, SQLModel), JavaScript, React
-- **Other:** Qt (basic experience)
+- **Other:** Git, Docker, Linux, Qt (basic experience)
 
 ## Selected publications
 
